@@ -1,12 +1,12 @@
 # HYDRUS-Updates
 
-Version **2.1.0** für Heltec WiFi LoRa 32 V3 (ESP32-S3/SX1262) und das lokale Windows-Programm.
+Version **2.1.1** für Heltec WiFi LoRa 32 V3 (ESP32-S3/SX1262) und das lokale Windows-Programm.
 
-- [Komplettpaket mit Arduino-Quellcode und PC-Programm](releases/Hydrus-2.1.0.zip)
-- [Signiertes Heltec-Update](releases/heltec-2.1.0.hup)
-- [Signiertes PC-Update](releases/pc-2.1.0.hup)
+- [Komplettpaket mit Arduino-Quellcode und PC-Programm](releases/Hydrus-2.1.1.zip)
+- [Signiertes Heltec-Update](releases/heltec-2.1.1.hup)
+- [Signiertes PC-Update](releases/pc-2.1.1.hup)
 
-Neu: gespeicherte Warnereignisse, geführter Messmengenvergleich, optionale ntfy-Mitteilungen und vorbereitete Online-Updates. WLAN-Suche und Funksuche funktionieren ohne zusätzliche Browser-Anmeldung.
+Neu: gespeicherte Warnereignisse, geführter Messmengenvergleich, optionale ntfy-Mitteilungen und vorbereitete Online-Updates. Die gesamte Weboberfläche ist ohne zusätzliche Admin-Anmeldung bedienbar.
 
 Version 2.1 kann über die lokale Datei-Auswahl im Update-Tab einer passenden 2.0-Installation eingespielt werden. Alternativ Arduino-Quellcode über USB hochladen. Zählerkonfiguration und Heimnetzzugang im NVS bleiben bei unveränderter Partitionierung erhalten. Die fertige öffentliche Firmware verwendet das Standard-Accesspoint-Passwort `Hydrus-Lokal-2026`; persönliche Passwortanpassungen im Sketch erfordern einen eigenen Build. Neue Geräte benötigen ihre eigenen Zählerkennungen und Schlüssel in den Einstellungen.
 
