@@ -1,12 +1,12 @@
 # HYDRUS-Updates
 
-Version **2.1.2** für Heltec WiFi LoRa 32 V3 (ESP32-S3/SX1262) und das lokale Windows-Programm.
+Version **2.1.3** für Heltec WiFi LoRa 32 V3 (ESP32-S3/SX1262) und das lokale Windows-Programm.
 
-- [Komplettpaket mit Arduino-Quellcode und PC-Programm](releases/Hydrus-2.1.2.zip)
-- [Signiertes Heltec-Update](releases/heltec-2.1.2.hup)
-- [Signiertes PC-Update](releases/pc-2.1.2.hup)
+- [Komplettpaket mit Arduino-Quellcode und PC-Programm](releases/Hydrus-2.1.3.zip)
+- [Signiertes Heltec-Update](releases/heltec-2.1.3.hup)
+- [Signiertes PC-Update](releases/pc-2.1.3.hup)
 
-Version 2.1.2 behebt die HTTPS-Kompilierung mit älteren ESP32-3.x-Boardpaketen durch ein mitgeliefertes Zertifikatspaket.
+Version 2.1.3 behebt die HTTPS-Kompilierung mit älteren ESP32-3.x-Boardpaketen durch ein mitgeliefertes Zertifikatspaket und erkennt beide Schnittstellenvarianten, auch die des Heltec-Pakets 3.0.3.
 
 Enthalten: gespeicherte Warnereignisse, geführter Messmengenvergleich, optionale ntfy-Mitteilungen und vorbereitete Online-Updates. Die gesamte Weboberfläche ist ohne zusätzliche Admin-Anmeldung bedienbar.
 
