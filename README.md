@@ -1,12 +1,12 @@
 # HYDRUS-Updates
 
-Version **2.1.5** für Heltec WiFi LoRa 32 V3 (ESP32-S3/SX1262) und das lokale Windows-Programm.
+Version **2.1.6** für Heltec WiFi LoRa 32 V3 (ESP32-S3/SX1262) und das lokale Windows-Programm.
 
-- [Komplettpaket mit Arduino-Quellcode und PC-Programm](releases/Hydrus-2.1.5.zip)
-- [Signiertes Heltec-Update](releases/heltec-2.1.5.hup)
-- [Signiertes PC-Update](releases/pc-2.1.5.hup)
+- [Komplettpaket mit Arduino-Quellcode und PC-Programm](releases/Hydrus-2.1.6.zip)
+- [Signiertes Heltec-Update](releases/heltec-2.1.6.hup)
+- [Signiertes PC-Update](releases/pc-2.1.6.hup)
 
-Neu in 2.1.5: Accesspoint-Passwort unter Einstellungen ändern und dauerhaft speichern. Anschließend startet der Heltec neu.
+Neu in 2.1.6: sichtbare Batterierestlaufzeit, Temperaturen, Zählerstatus und weitere übertragene Werte. Warnregeln mit verständlichen Bezeichnungen und Live-Zusammenfassung. Das in der Weboberfläche gespeicherte Accesspoint-Passwort bleibt bei Online-Updates erhalten.
 
 Die Oberfläche zeigt Ladeanimationen bei der Updatesuche und Heltec-Onlineinstallation, Prozentwerte bei PC-Downloads und Firmware-Uploads sowie den Abschlussstatus.
 
